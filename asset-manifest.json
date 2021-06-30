@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/blaisebakundukize/meet/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/blaisebakundukize/meet/static/js/main.85dcc210.chunk.js",
+    "main.js.map": "/blaisebakundukize/meet/static/js/main.85dcc210.chunk.js.map",
+    "runtime-main.js": "/blaisebakundukize/meet/static/js/runtime-main.2e01623b.js",
+    "runtime-main.js.map": "/blaisebakundukize/meet/static/js/runtime-main.2e01623b.js.map",
+    "static/js/2.bab6c448.chunk.js": "/blaisebakundukize/meet/static/js/2.bab6c448.chunk.js",
+    "static/js/2.bab6c448.chunk.js.map": "/blaisebakundukize/meet/static/js/2.bab6c448.chunk.js.map",
+    "static/js/3.4a418ac2.chunk.js": "/blaisebakundukize/meet/static/js/3.4a418ac2.chunk.js",
+    "static/js/3.4a418ac2.chunk.js.map": "/blaisebakundukize/meet/static/js/3.4a418ac2.chunk.js.map",
+    "index.html": "/blaisebakundukize/meet/index.html",
+    "service-worker.js": "/blaisebakundukize/meet/service-worker.js",
+    "service-worker.js.map": "/blaisebakundukize/meet/service-worker.js.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/blaisebakundukize/meet/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.bab6c448.chunk.js.LICENSE.txt": "/blaisebakundukize/meet/static/js/2.bab6c448.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/blaisebakundukize/meet/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e01623b.js",
+    "static/js/2.bab6c448.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.85dcc210.chunk.js"
+  ]
+}
